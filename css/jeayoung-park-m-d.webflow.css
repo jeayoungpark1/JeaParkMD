@@ -365,6 +365,11 @@ p {
   object-fit: scale-down;
 }
 
+.column-0-padding {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
 .content {
   height: 100%;
 }
