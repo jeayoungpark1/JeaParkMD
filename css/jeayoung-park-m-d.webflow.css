@@ -730,6 +730,18 @@ p {
   grid-area: Area;
 }
 
+#w-node-_452b006e-6c65-7d00-dfe3-1df1401a3307-5e87e12b {
+  -ms-grid-row: 1;
+  -ms-grid-column: 1;
+  grid-area: Area;
+}
+
+#w-node-b763765f-810b-9cfa-616b-d52ce6f4018b-5e87e12b {
+  -ms-grid-row: 1;
+  -ms-grid-column: 1;
+  grid-area: Area;
+}
+
 #w-node-e875ab5c-0094-7d84-6097-13a84a80db45-5e87e12b {
   -ms-grid-row: 1;
   -ms-grid-column: 1;
